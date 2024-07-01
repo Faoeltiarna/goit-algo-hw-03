@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b4b360af-8eaf-4481-8883-180b55931a45" name="Changes" comment="commit_3" />
+    <list default="true" id="b4b360af-8eaf-4481-8883-180b55931a45" name="Changes" comment="commit_4">
+      <change beforePath="$PROJECT_DIR$/m3_hw1.py" beforeDir="false" afterPath="$PROJECT_DIR$/m3_hw1.py" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -123,7 +125,15 @@
       <option name="project" value="LOCAL" />
       <updated>1719840692649</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="commit_4">
+      <option name="closed" value="true" />
+      <created>1719841505671</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1719841505671</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -173,6 +183,7 @@
     <MESSAGE value="commit_1" />
     <MESSAGE value="commit_2" />
     <MESSAGE value="commit_3" />
-    <option name="LAST_COMMIT_MESSAGE" value="commit_3" />
+    <MESSAGE value="commit_4" />
+    <option name="LAST_COMMIT_MESSAGE" value="commit_4" />
   </component>
 </project>
