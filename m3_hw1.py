@@ -1,6 +1,6 @@
 from datetime import datetime
 
-date_value = input("Enter your date in format 'YYYY-mm-dd': ")
+date_from_user = input("Enter your date in format 'YYYY-mm-dd': ")
 def get_days_from_today(date):
     try:
         date_value = datetime.strptime(date, "%Y-%m-%d").date()
@@ -10,4 +10,4 @@ def get_days_from_today(date):
     except ValueError:
         return "Error date fotmat!"
 
-print(get_days_from_today(date_value))
+print(get_days_from_today(date_from_user))
