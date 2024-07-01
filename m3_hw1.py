@@ -1,6 +1,6 @@
 import datetime
 
-
+#upd
 def get_days_from_today(date):
     date_obj = datetime.datetime.strptime(date, "%Y-%m-%d").date()
     current_date = datetime.datetime.today().date()
@@ -8,4 +8,4 @@ def get_days_from_today(date):
     return difference
 
 
-print(get_days_from_today("2023-09-01"))
+print(get_days_from_today("2023-09-11"))
