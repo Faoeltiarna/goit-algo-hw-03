@@ -1,8 +1,8 @@
-import datetime
+from datetime import datetime
 
 def get_days_from_today(date):
-    date_value = datetime.datetime.strptime(date, "%Y-%m-%d").date()
-    current_date = datetime.datetime.today().date()
+    date_value = datetime.strptime(date, "%Y-%m-%d").date()
+    current_date = datetime.today().date()
     difference = date_value.toordinal() - current_date.toordinal()
     return difference
 
